@@ -1,0 +1,22 @@
+"*":
+  "Sublime-Style-Column-Selection": {}
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
+    softWrap: true
+  "exception-reporting":
+    userId: "0175eb3c-d739-48b5-89c1-c3f258cc46e4"
+  github:
+    automaticCommitMessageWrapping: false
+  latex:
+    buildOnSave: true
+    engine: "uplatex"
+    openResultAfterBuild: false
+    openResultInBackground: false
+    opener: "pdf-view"
+  "plantuml-viewer":
+    charset: "utf-8"
+    graphvizDotExecutable: "/usr/local/Cellar/graphviz/2.40.1/bin/dot"
+  welcome:
+    showOnStartup: false

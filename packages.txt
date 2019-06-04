@@ -1,0 +1,11 @@
+Sublime-Style-Column-Selection@1.7.5
+japanese-menu@1.14.0
+language-latex@1.2.0
+language-plantuml@0.2.0
+latex@0.50.2
+latexer@0.3.0
+latextools@0.8.5
+pdf-view@0.71.0
+plantuml-viewer@0.7.2
+plist-converter@0.2.0
+
